@@ -1,0 +1,3 @@
+fastapi
+flake8
+uvicorn
